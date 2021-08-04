@@ -1,3 +1,5 @@
+<h3 align='center'>Hi there👋</h3>
+
 <h3 align='center'>😮 Skill</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
