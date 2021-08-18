@@ -1,5 +1,6 @@
 <h2 align='center'>Hi there👋👨‍🎓</h2>
-  ### About me🧑:###
+<h3>About me🧑:</h3>
+</br>
   
 I am a student studying Computer Programming.<br/>
 I am interested in Backend development and I am focusing on Java.
