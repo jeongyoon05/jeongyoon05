@@ -1,4 +1,5 @@
 <h2 align='center'>Hi there👋👨‍🎓</h2>
+</br>
 <h3>About me🧑:</h3>
 
 I am a student studying Computer Programming.<br/>
