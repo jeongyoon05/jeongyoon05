@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/jeongyoon05/jeongyoon05/blob/main/Images/githubtitle.png)](https://jeongyoon.kr)
+
 <h2 align='center'>Hi there👋👨‍🎓</h2>
 
 
