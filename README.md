@@ -3,10 +3,11 @@
 I am a student studying Computer Programming.<br/>
 I am interested in Backend development and I am focusing on Java.
 
-<img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+<img align="right" width="375"/>
 
 - 🙆‍♀️ I'm currently attending Daedeok Software Meister High School.
 - 🙆‍♂ I’m currently learning Backend Development.
+- 
 
 <h3 align='center'>😎 Skill</h3>
 <p align='center'>
