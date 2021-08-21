@@ -9,8 +9,6 @@ I am interested in Backend development and I am focusing on Java.
 - 🙆‍♀️ I'm currently attending Daedeok Software Meister High School.
 - 🙆‍♂ I’m currently learning Backend Development.
 </br>
----
-
 
 <h3 align='center'>😎 Skill</h3>
 <p align='center'>
