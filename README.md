@@ -8,7 +8,7 @@ I am interested in Backend development and I am focusing on Java.
 
 - 🙆‍♀️ I'm currently attending Daedeok Software Meister High School.
 - 🙆‍♂ I’m currently learning Backend Development.
-</br>
+- ---
 
 <h3 align='center'>😎 Skill</h3>
 <p align='center'>
@@ -18,6 +18,7 @@ I am interested in Backend development and I am focusing on Java.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 
+  
 <h3 align='center'>🔨 Tools</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
