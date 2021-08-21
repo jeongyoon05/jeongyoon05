@@ -7,8 +7,8 @@ I am interested in Backend development and I am focusing on Java.
 
 <img align="right" width="375"/>
 
-- 🙆‍♀️ I'm currently attending Daedeok Software Meister High School.
-- 🙆‍♂ I’m currently learning Backend Development.
+-🙆‍♂️ I'm currently attending Daedeok Software Meister High School.
+-🙆‍ I’m currently learning Backend Development.
 - ---
 
 <h3 align='center'>😎 Skill</h3>
