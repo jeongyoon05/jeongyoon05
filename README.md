@@ -11,7 +11,7 @@ I am interested in Backend development and I am focusing on Java.
 -🙆‍ I’m currently learning Backend Development.
 - ---
 
-<h3 align='center'🛠 Skill</h3>
+<h3 align='center'>🛠 Skill</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
