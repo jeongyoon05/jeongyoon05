@@ -1,16 +1,5 @@
 <h2 align='center'>Hi there👨‍🎓🙋‍♂️</h2>
 
-<h3>About me🧑:</h3>  
-
-I am a student studying Computer Programming.<br/>
-I am interested in Backend development and I am focusing on Java.
-
-<img align="right" width="375"/>
-
--🙆‍♂️ I'm currently attending Daedeok Software Meister High School.<br/>
--🙆‍ I’m currently learning Backend Development.
-- ---
-
 <h3 align='center'>🛠 Skill</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
