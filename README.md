@@ -9,6 +9,3 @@
   ### 📚 Learning
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
   
-  ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongyoon05&layout=compact&theme=material-palenight)
