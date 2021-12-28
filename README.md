@@ -8,3 +8,4 @@
   ### 📚 Learning
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
   
+![snake gif](https://github.com/jeongyoon05/jeongyoon05/blob/output/github-contribution-grid-snake.svg)
