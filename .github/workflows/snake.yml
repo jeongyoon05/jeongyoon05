@@ -10,7 +10,7 @@ on:
     - cron: "0 */6 * * *"
 
   # 자동으로 Action이 실행되도록 함
-  workflow_dispatch:
+#  workflow_dispatch:
 
 jobs:
   build:
