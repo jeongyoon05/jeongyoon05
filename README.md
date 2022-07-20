@@ -1,1 +1,1 @@
-![BartOuchGIF (2)](https://user-images.githubusercontent.com/81298238/179885319-b19d9ee0-cd03-4950-b15a-e16a4b438300.gif)
+![OuchBaymaxGIF](https://user-images.githubusercontent.com/81298238/179916832-647f61f4-b43e-4eec-90c1-17041d86cd75.gif)
